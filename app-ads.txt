@@ -1,7 +1,5 @@
-# Updated at 2026/04/29 13:39:50
-
 # Admob
-google.com, pub-6289051987561348, DIRECT, f08c47fec0942fa0
+google.com,pub-3554194302092206,DIRECT,f08c47fec0942fa0
 
 # Facebook
 facebook.com,155679435141174,DIRECT,c3e20eee3f780d68
